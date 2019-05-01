@@ -1,5 +1,16 @@
 # Modular Multilevel Converter Based Solid State Transformer
 Analysis of Modular Multilevel Converter Based Solid State Transformer Implementing Hybrid Control
+# Abstract
+A Solid State Transformer (SST) consists of a
+high-frequency transformer and power electronic converters.It
+is relatively a complex system. It requires control in many
+stages. The control methods vary from topology to topology.
+In this paper, Modular Multilevel Converter (MMC) topology
+is used in converter stage. To control MMC, a hybrid control
+is implemented consisting of a modified sorting algorithm and
+model predictive control. Using the proposed algorithm, the
+performance of the system under different grid disturbances has
+been analyzed.
 
 	Version        : 0.0.2  
 	MATLAB         : 9.1	(R2016b)  
