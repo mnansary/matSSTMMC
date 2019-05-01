@@ -12,5 +12,5 @@ Analysis of Modular Multilevel Converter Based Solid State Transformer Implement
 ![](/src_img/model.png?raw=true )
 
 # Publications
-[10.1109/ICECE.2018.8636742]  
+[](https://ieeexplore.ieee.org/document/8636742)  
 
