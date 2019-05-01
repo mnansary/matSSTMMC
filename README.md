@@ -3,7 +3,7 @@ Analysis of Modular Multilevel Converter Based Solid State Transformer Implement
 
 	Version        : 0.0.2  
 	MATLAB         : 9.1	(R2016b)  
-    	Researchers    :  
+	Researchers    :  
 			Rajesh kumer Paul    
 			Md.Nazmuddoha Ansary    
 			Md. Abdur Rokib  
@@ -12,5 +12,5 @@ Analysis of Modular Multilevel Converter Based Solid State Transformer Implement
 ![](/src_img/model.png?raw=true )
 
 # Publications
-10.1109/ICECE.2018.8636742  
+[10.1109/ICECE.2018.8636742]  
 
