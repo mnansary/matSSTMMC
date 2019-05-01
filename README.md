@@ -21,13 +21,13 @@ been analyzed.
 ## Structre  	
 ![](/src_img/model.png?raw=true )
 # Simulation Results (Sample)
-## Grid Voltage & Current
+#### Grid Voltage & Current
 ![](/src_img/Vsss_vg.png?raw=true )
-## HVDC & LVDC
+#### HVDC & LVDC
 ![](/src_img/Vsss_HVLV.png?raw=true )
-## Output (Inverter Voltage and Current)
+#### Output (Inverter Voltage and Current)
 ![](/src_img/Vsss_out.png?raw=true )
-## Circulating Current
+#### Circulating Current
 ![](/src_img/Vsss_cir.png?raw=true )
 # Publications
 [https://ieeexplore.ieee.org/document/8636742](https://ieeexplore.ieee.org/document/8636742)
